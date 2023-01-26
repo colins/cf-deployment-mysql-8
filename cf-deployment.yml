@@ -2909,9 +2909,9 @@ releases:
   version: 1.9.1
   sha1: 6d1415c18062b88e771a72557be9290a0b1cf639
 - name: silk
-  url: https://bosh.io/d/github.com/cloudfoundry/silk-release?v=3.19.0
-  version: 3.19.0
-  sha1: 34fae0ef595a0e2217689d3a89326d8b2bb7f659
+  url: https://bosh.io/d/github.com/cloudfoundry/silk-release?v=3.20.0
+  version: 3.20.0
+  sha1: d4ec19543f1391751d276326abb7815a81e0212b
 - name: staticfile-buildpack
   url: https://bosh.io/d/github.com/cloudfoundry/staticfile-buildpack-release?v=1.5.37
   version: 1.5.37
